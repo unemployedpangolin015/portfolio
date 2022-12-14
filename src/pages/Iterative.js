@@ -117,11 +117,10 @@ const Iterative = () => {
 
     <Text pb={2}>From reviewing the user testing sessions, we obtained the following takeaways:</Text>
     <UnorderedList pb={5}>
-      <ListItem>All users successfully completed the overarching task of browsing outdoor experiences and then booking the Catskills mountain hike with ease. Referring to the numbered tasks above, the success rate for 2 and 3 was 100% with all testers rating the task as "Very Easy".</ListItem>
-      <ListItem>Users understood the back arrow and home button navigation well (with 100% success on task 5 and all testers rating it "Very Easy").</ListItem>
-      <ListItem>Each tester misunderstood the bottom navigation bar, with general confusion on the meanings of the icons. For example, one user interpreted the tent icon as a button for booking experiences, when in reality, it is for booking lodging.</ListItem>
-      <ListItem>While working on task 4, one user was frustrated that there was no page for reviewing already-booked lodging and experiences.</ListItem>
-      <ListItem>Testers appreciated the visual design of the app, particularly the large photos, but some desired additional photos for each experience.</ListItem>
+      <ListItem><Text as='b'>All users successfully completed the overarching task</Text> of browsing outdoor experiences and then booking the Catskills mountain hike with ease. Referring to the numbered tasks above, the success rate for 2 and 3 was 100% with all testers rating the task as "Very Easy".</ListItem>
+      <ListItem><Text as='b'>Users understood the back arrow and home button navigation well</Text> (with 100% success on task 5 and all testers rating it "Very Easy").</ListItem>
+      <ListItem><Text as='b'>Each tester misunderstood the bottom navigation bar</Text>, with general confusion on the meanings of the icons. For example, one user interpreted the tent icon as a button for booking experiences, when in reality, it is for booking lodging.</ListItem>
+      <ListItem><Text as='b'>Testers appreciated the visual design of the app</Text>, particularly the large photos, but some desired additional photos for each experience.</ListItem>
     </UnorderedList>
 
     <Text pb={2}>We were happy to see user success on the given tasks! We were surprised by the confusion on the bottom navigation bar but grateful to have identified areas for improvement from the user testing. If we were to iterate on our designs once more, we would:</Text>
