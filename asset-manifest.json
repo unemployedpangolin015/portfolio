@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.13fb17c6.css",
-    "main.js": "/portfolio/static/js/main.a7a8c574.js",
+    "main.js": "/portfolio/static/js/main.416c20d4.js",
     "static/media/inter-all-700-normal.woff": "/portfolio/static/media/inter-all-700-normal.4caa68a0cd07682d7af5.woff",
     "static/media/inter-all-800-normal.woff": "/portfolio/static/media/inter-all-800-normal.ec3562bf6d6e6d95d602.woff",
     "static/media/inter-all-400-normal.woff": "/portfolio/static/media/inter-all-400-normal.8c804432e8c67741aac0.woff",
+    "static/media/Resume.pdf": "/portfolio/static/media/Resume.7a675951f1a81760552e.pdf",
     "static/media/raleway-all-700-normal.woff": "/portfolio/static/media/raleway-all-700-normal.42089e13b4274eeece4b.woff",
     "static/media/raleway-all-400-normal.woff": "/portfolio/static/media/raleway-all-400-normal.98e7ff86f2b9a46e19cc.woff",
     "static/media/work-sans-all-700-normal.woff": "/portfolio/static/media/work-sans-all-700-normal.f8e5b33f2c84bdd85a38.woff",
@@ -52,10 +53,10 @@
     "static/media/work-sans-vietnamese-400-normal.woff2": "/portfolio/static/media/work-sans-vietnamese-400-normal.14ef09c434153b854951.woff2",
     "index.html": "/portfolio/index.html",
     "main.13fb17c6.css.map": "/portfolio/static/css/main.13fb17c6.css.map",
-    "main.a7a8c574.js.map": "/portfolio/static/js/main.a7a8c574.js.map"
+    "main.416c20d4.js.map": "/portfolio/static/js/main.416c20d4.js.map"
   },
   "entrypoints": [
     "static/css/main.13fb17c6.css",
-    "static/js/main.a7a8c574.js"
+    "static/js/main.416c20d4.js"
   ]
 }
